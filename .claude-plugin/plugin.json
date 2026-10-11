@@ -9,6 +9,7 @@
     "url": "https://www.scribe-mail.com"
   },
   "homepage": "https://help.scribe-mail.com",
+  "privacyPolicyUrl": "https://www.scribe-mail.com/privacy",
   "repository": "https://github.com/scribemail/claude-plugin",
   "license": "MIT",
   "keywords": ["email-signatures", "email", "marketing", "analytics", "branding", "scribe"]
