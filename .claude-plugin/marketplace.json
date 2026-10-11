@@ -1,0 +1,28 @@
+{
+  "name": "scribe-mail",
+  "owner": {
+    "name": "Scribe",
+    "email": "support@scribe-mail.com",
+    "url": "https://www.scribe-mail.com"
+  },
+  "description": "Official Claude plugins from Scribe: email signature management for Claude Code and Cowork.",
+  "plugins": [
+    {
+      "name": "scribe-mail",
+      "source": "./",
+      "displayName": "Scribe Mail",
+      "description": "Manage your company's email signatures from Claude: author and publish signature templates, roll them out to the right teammates, run signature marketing campaigns, and read engagement analytics.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Scribe",
+        "email": "support@scribe-mail.com",
+        "url": "https://www.scribe-mail.com"
+      },
+      "homepage": "https://help.scribe-mail.com",
+      "repository": "https://github.com/scribemail/claude-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["email-signatures", "email", "marketing", "analytics", "branding", "scribe"]
+    }
+  ]
+}

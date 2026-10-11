@@ -1,0 +1,6 @@
+{
+  "scribe": {
+    "type": "http",
+    "url": "https://mcp.scribe-mail.com/mcp"
+  }
+}
