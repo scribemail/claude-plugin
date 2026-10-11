@@ -1,15 +1,18 @@
 {
   "name": "scribe-mail",
   "displayName": "Scribe Mail",
-  "description": "Manage your company's email signatures from Claude: author and publish signature templates, roll them out to the right teammates, run signature marketing campaigns, and read engagement analytics.",
+  "description": "Email signatures finally simple and measurable. Built for teams & AI agents. Install consistent signatures company-wide in under a day. IT sets up once. Marketing takes over. AI agents assist. No employee installation. 12% average CTR on signature banners. Conversion tracking from click to revenue.",
   "version": "1.0.0",
   "author": {
     "name": "Scribe",
     "email": "support@scribe-mail.com",
     "url": "https://www.scribe-mail.com"
   },
-  "homepage": "https://help.scribe-mail.com",
+  "homepage": "https://www.scribe-mail.com",
+  "documentationUrl": "https://help.scribe-mail.com/en/ai-agents",
+  "supportUrl": "https://help.scribe-mail.com",
   "privacyPolicyUrl": "https://www.scribe-mail.com/privacy",
+  "termsOfServiceUrl": "https://www.scribe-mail.com/terms",
   "repository": "https://github.com/scribemail/claude-plugin",
   "license": "MIT",
   "keywords": ["email-signatures", "email", "marketing", "analytics", "branding", "scribe"]
